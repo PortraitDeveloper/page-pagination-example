@@ -1,2 +1,1 @@
-# page-pagination-example
-# page-pagination-example
+This is an example source code for a page pagination application.
